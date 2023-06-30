@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QamaQ
-- 👀 I’m interested in FullStack JAVASCRIPT
-- 🌱 I’m currently learning JAVASCRIPT
+- 👀 I’m interested in FullStack PYTHON
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
